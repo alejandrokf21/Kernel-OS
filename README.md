@@ -3,7 +3,10 @@ Hola Mundo!  OpenCuervo es un kernel recalizado por Carlos, Daniel y Alejandro. 
 
 ## Vista Previa
 
-## OpenCuervo OS
+## OpenCuervo OS: Version Final
+![solarized vim](https://github.com/alejandrokf21/Kernel-OS/blob/master/Multimedia/CuervoOSFinal.png)
+
+## OpenCuervo OS: Primera Version
 ![solarized vim](https://github.com/alejandrokf21/Kernel-OS/blob/master/Multimedia/final.png)
 
 ### Creacion de Imagen ISO
